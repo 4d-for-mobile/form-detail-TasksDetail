@@ -32,7 +32,7 @@
         <!--Details Form-->
         <scene sceneID="fK0-6P-J5Y">
             <objects>
-                <viewController id="fuA-6I-sTU" customClass="___TABLE___DetailsForm" customModule="New_project10" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="fuA-6I-sTU" customClass="___TABLE___DetailsForm" customModule="___PRODUCT___" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="7i1-qQ-Sbo"/>
                         <viewControllerLayoutGuide type="bottom" id="D8o-Fj-VKX"/>
@@ -120,7 +120,7 @@
                                                                     <constraint firstItem="TAG-FD-006" firstAttribute="leading" secondItem="TAG-FD-004" secondAttribute="leading" constant="60" id="TAG-FD-010"/>
                                                                 </constraints>
                                                             </view>
-                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="___FIELD_LABEL___" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="TAG-FD-002" customClass="IconLabel" customModule="New_project10" customModuleProvider="target">
+                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="___FIELD_LABEL___" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="TAG-FD-002" customClass="IconLabel" customModule="___PRODUCT___" customModuleProvider="target">
                                                                 <rect key="frame" x="0.0" y="8.9999999999999982" width="335" height="23.333333333333329"/>
                                                                 <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                                 <fontDescription key="fontDescription" name="AvenirNext-Medium" family="Avenir Next" pointSize="17"/>
@@ -153,7 +153,7 @@
                                                     <constraint firstAttribute="top" secondItem="wZe-rf-rYt" secondAttribute="top" id="mcw-M7-vVL"/>
                                                 </constraints>
                                             </stackView>
-                                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="uk4-2A-ZQc" customClass="___TABLE___CustomProgressBarDetail" customModule="New_project10" customModuleProvider="target">
+                                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="uk4-2A-ZQc" customClass="___TABLE___CustomProgressBarDetail" customModule="___PRODUCT___" customModuleProvider="target">
                                                 <rect key="frame" x="57.666666666666657" y="107" width="260" height="260"/>
                                                 <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                                                 <constraints>
@@ -223,7 +223,7 @@
                                                             <userDefinedRuntimeAttribute type="string" keyPath="bindTo.record.___FIELD_4___" value="___FIELD_4_BINDING_TYPE___"/>
                                                         </userDefinedRuntimeAttributes>
                                                     </label>
-                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="___FIELD_4_LABEL___" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="2cv-vk-zvS" customClass="IconLabel" customModule="New_project10" customModuleProvider="target">
+                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="___FIELD_4_LABEL___" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="2cv-vk-zvS" customClass="IconLabel" customModule="___PRODUCT___" customModuleProvider="target">
                                                         <rect key="frame" x="209" y="10.666666666666684" width="151" height="23.333333333333329"/>
                                                         <accessibility key="accessibilityConfiguration">
                                                             <accessibilityTraits key="traits" staticText="YES" notEnabled="YES"/>
@@ -240,7 +240,7 @@
                                                             <userDefinedRuntimeAttribute type="string" keyPath="imagePosition" value="left"/>
                                                         </userDefinedRuntimeAttributes>
                                                     </label>
-                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="___FIELD_3_LABEL___" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dFj-Ee-ONj" customClass="IconLabel" customModule="New_project10" customModuleProvider="target">
+                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="___FIELD_3_LABEL___" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dFj-Ee-ONj" customClass="IconLabel" customModule="___PRODUCT___" customModuleProvider="target">
                                                         <rect key="frame" x="20" y="11" width="151" height="23"/>
                                                         <accessibility key="accessibilityConfiguration">
                                                             <accessibilityTraits key="traits" staticText="YES" notEnabled="YES"/>
@@ -438,7 +438,7 @@
                                         <constraint firstItem="AQZ-Ms-5nY" firstAttribute="top" secondItem="dLy-LP-3To" secondAttribute="top" id="z5A-1i-bvk"/>
                                     </constraints>
                                 </view>
-                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="___FIELD_LABEL___" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="pen-fQ-OCE" customClass="IconLabel" customModule="New_project10" customModuleProvider="target">
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="___FIELD_LABEL___" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="pen-fQ-OCE" customClass="IconLabel" customModule="___PRODUCT___" customModuleProvider="target">
                                     <rect key="frame" x="0.0" y="8.9999999999999982" width="347" height="27.333333333333329"/>
                                     <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <fontDescription key="fontDescription" name="AvenirNext-Medium" family="Avenir Next" pointSize="20"/>
