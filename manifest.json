@@ -1,6 +1,6 @@
 {
   "type": "detailform",
-  "name": "Circle",
+  "name": "Tasks Detail",
   "fields": {
     "count": 4
   },
