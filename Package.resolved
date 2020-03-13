@@ -1,0 +1,97 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire.git",
+        "state": {
+          "branch": null,
+          "revision": "b02c4ee7f1659090f7ac543c022f922beeb04bc6",
+          "version": "5.0.2"
+        }
+      },
+      {
+        "package": "DeviceKit",
+        "repositoryURL": "https://github.com/phimage/DeviceKit.git",
+        "state": {
+          "branch": "feature/macos",
+          "revision": "ecdfbb1fe053507cc3eaeaa8d078e64180de1809",
+          "version": null
+        }
+      },
+      {
+        "package": "IBAnimatable",
+        "repositoryURL": "https://github.com/IBAnimatable/IBAnimatable.git",
+        "state": {
+          "branch": "HEAD",
+          "revision": "f1104ae78e0307e58ac96ace5ead9156afa4cef6",
+          "version": null
+        }
+      },
+      {
+        "package": "Moya",
+        "repositoryURL": "https://github.com/Moya/Moya.git",
+        "state": {
+          "branch": null,
+          "revision": "b3e5a233e0d85fd4d69f561c80988590859c7dee",
+          "version": "14.0.0"
+        }
+      },
+      {
+        "package": "Prephirences",
+        "repositoryURL": "https://github.com/phimage/Prephirences.git",
+        "state": {
+          "branch": "HEAD",
+          "revision": "5fbb69f7b1060dd14531a8c4f7adb9e9b4dec1c8",
+          "version": null
+        }
+      },
+      {
+        "package": "QMobileAPI",
+        "repositoryURL": "https://github.com/4d-for-ios/QMobileAPI.git",
+        "state": {
+          "branch": "HEAD",
+          "revision": "d915570e6361be41df49810f6fbfb82a7c111501",
+          "version": null
+        }
+      },
+      {
+        "package": "QMobileUI",
+        "repositoryURL": "https://github.com/4d-for-ios/QMobileUI.git",
+        "state": {
+          "branch": "HEAD",
+          "revision": "582d77fd6a34e81817b41adf1a9825043ef6f170",
+          "version": null
+        }
+      },
+      {
+        "package": "ReactiveSwift",
+        "repositoryURL": "https://github.com/Moya/ReactiveSwift.git",
+        "state": {
+          "branch": null,
+          "revision": "f195d82bb30e412e70446e2b4a77e1b514099e88",
+          "version": "6.1.0"
+        }
+      },
+      {
+        "package": "RxSwift",
+        "repositoryURL": "https://github.com/ReactiveX/RxSwift.git",
+        "state": {
+          "branch": null,
+          "revision": "c1bd31b397d87a54467af4161dde9d6b27720c19",
+          "version": "5.1.0"
+        }
+      },
+      {
+        "package": "XCGLogger",
+        "repositoryURL": "https://github.com/DaveWoodCom/XCGLogger.git",
+        "state": {
+          "branch": null,
+          "revision": "a9c4667b247928a29bdd41be2ec2c8d304215a54",
+          "version": "7.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

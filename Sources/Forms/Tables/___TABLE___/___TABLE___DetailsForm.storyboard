@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="15505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="Y2J-Qb-nvx">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="15705" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="Y2J-Qb-nvx">
     <device id="retina5_5" orientation="portrait" appearance="light"/>
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15509"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15706"/>
         <capability name="Named colors" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -318,6 +318,7 @@
                                     <constraint firstAttribute="height" constant="48" id="Ian-vM-ZP2"/>
                                     <constraint firstAttribute="width" constant="48" id="xXP-an-U6j"/>
                                 </constraints>
+                                <color key="tintColor" name="BackgroundColor"/>
                                 <state key="normal" backgroundImage="backButton"/>
                                 <connections>
                                     <action selector="previousRecord:" destination="fuA-6I-sTU" eventType="touchUpInside" id="0tK-xl-ykx"/>
@@ -330,6 +331,7 @@
                                     <constraint firstAttribute="height" constant="48" id="5Er-9o-fLY"/>
                                     <constraint firstAttribute="width" constant="48" id="gFM-H1-FVG"/>
                                 </constraints>
+                                <color key="tintColor" name="BackgroundColor"/>
                                 <state key="normal" title="" backgroundImage="closeButton"/>
                                 <connections>
                                     <action selector="backButton:" destination="fuA-6I-sTU" eventType="touchUpInside" id="FhK-Ys-L6u"/>
@@ -341,6 +343,7 @@
                                     <constraint firstAttribute="height" constant="48" id="5g6-eN-vzm"/>
                                     <constraint firstAttribute="width" constant="48" id="DjU-Na-scM"/>
                                 </constraints>
+                                <color key="tintColor" name="BackgroundColor"/>
                                 <state key="normal" backgroundImage="nextButton"/>
                                 <connections>
                                     <action selector="nextRecord:" destination="fuA-6I-sTU" eventType="touchUpInside" id="C1T-7l-gav"/>
@@ -352,6 +355,7 @@
                                     <constraint firstAttribute="width" constant="60" id="03w-2n-6wJ"/>
                                     <constraint firstAttribute="height" constant="60" id="8M4-T9-XQD"/>
                                 </constraints>
+                                <color key="tintColor" name="BackgroundColor"/>
                                 <state key="normal" backgroundImage="moreButton"/>
                                 <userDefinedRuntimeAttributes>
                                     <userDefinedRuntimeAttribute type="string" keyPath="actions" value="___ENTITY_ACTIONS___"/>
@@ -483,7 +487,7 @@
         <image name="___FIELD_ICON___" width="16" height="16"/>
         <image name="backButton" width="240.66667175292969" height="240.66667175292969"/>
         <image name="closeButton" width="240.66667175292969" height="240.66667175292969"/>
-        <image name="moreButton" width="16" height="16"/>
+        <image name="moreButton" width="300" height="300"/>
         <image name="next" width="22" height="22"/>
         <image name="nextButton" width="240.66667175292969" height="240.66667175292969"/>
         <image name="previous" width="22" height="22"/>
