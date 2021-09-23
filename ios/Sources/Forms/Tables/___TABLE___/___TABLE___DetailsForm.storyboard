@@ -15,6 +15,7 @@
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="yeb-5T-Sqp">
                         <autoresizingMask key="autoresizingMask"/>
+                        <color key="backgroundColor" name="BackgroundColor"/>
                         <color key="tintColor" name="ForegroundColor"/>
                         <color key="barTintColor" name="BackgroundColor"/>
                         <textAttributes key="titleTextAttributes">
